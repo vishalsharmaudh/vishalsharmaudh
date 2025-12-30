@@ -9,6 +9,11 @@ I'm a passionate Full Stack Developer from Jammu, India, specializing in web and
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## 🎮 Projects
+
+### [Tic-Tac-Toe Game](https://github.com/vishalsharmaudh/tic-tac-toe)
+A classic two-player game built with vanilla JavaScript. [Play Now →](https://vishalsharmaudh.github.io/tic-tac-toe/)
+
 ## 🔭 What I'm Working On
 - Building cross-platform mobile applications with React Native
 - Developing responsive web interfaces
