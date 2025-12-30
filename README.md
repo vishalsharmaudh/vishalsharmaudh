@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Vishal Sharma! 👋
 
-<!--
-**vishalsharmaudh/vishalsharmaudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Full Stack Developer from Jammu, India, specializing in web and mobile application development. I love turning ideas into elegant, user-friendly applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+- Building cross-platform mobile applications with React Native
+- Developing responsive web interfaces
+- Learning new technologies and best practices
+
+## 📊 GitHub Stats
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vv737044&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- 📍 Based in Jammu, India
+- 💼 Open to collaboration and opportunities
+- 📧 [Your Email] (add your email)
+
+## 🌱 Currently Learning
+- Advanced React Native patterns
+- Backend development
+- Cloud technologies
+
+---
+⭐️ From [vv737044](https://github.com/vv737044)
+```
+
+### **2. Update Your Bio**
+Change your current emoji-only bio to something like:
+```
+Full Stack Developer | HTML • CSS • JavaScript • React Native | Building seamless digital experiences 🚀
