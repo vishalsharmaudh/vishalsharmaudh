@@ -14,18 +14,11 @@ I'm a passionate Full Stack Developer from Jammu, India, specializing in web and
 - Developing responsive web interfaces
 - Learning new technologies and best practices
 
-## 📊 GitHub Stats
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vv737044&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 - 📍 Based in Jammu, India
 - 💼 Open to collaboration and opportunities
 - 📧 vishalsharmaudh12@gmail.com 
 
-## 🌱 Currently Learning
-- Advanced React Native patterns
-- Backend development
-- Cloud technologies
 
 ---
 ⭐️ From [vishalsharmaudh](https://github.com/vishalsharmaudh)```
