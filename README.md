@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer from Jammu, India, specializing in web and
 ## 📫 Let's Connect
 - 📍 Based in Jammu, India
 - 💼 Open to collaboration and opportunities
-- 📧 [Your Email] (add your email)
+- 📧 vishalsharmaudh12@gmail.com 
 
 ## 🌱 Currently Learning
 - Advanced React Native patterns
@@ -28,10 +28,4 @@ I'm a passionate Full Stack Developer from Jammu, India, specializing in web and
 - Cloud technologies
 
 ---
-⭐️ From [vv737044](https://github.com/vv737044)
-```
-
-### **2. Update Your Bio**
-Change your current emoji-only bio to something like:
-```
-Full Stack Developer | HTML • CSS • JavaScript • React Native | Building seamless digital experiences 🚀
+⭐️ From [vishalsharmaudh](https://github.com/vishalsharmaudh)```
